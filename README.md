@@ -1,4 +1,4 @@
-# Neighborly
+# Neighborly2
 ## An Open-Source Vector Database
 
 [![CodeQL](https://github.com/nickna/Neighborly/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/nickna/Neighborly/actions/workflows/github-code-scanning/codeql)
