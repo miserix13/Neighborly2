@@ -20,18 +20,11 @@ Neighborly is a versatile open-source vector database built with C#, designed to
 
 # Getting Started
 
-## Web Server (Docker Image)
-To use Neighborly as a web server, you can pull the Docker image from [DockerHub](https://hub.docker.com/r/nick206/neighborly):
+## Web Server
+To use Neighborly as a web server:
 
-```shell
-docker pull nick206/neighborly:latest
-```
 
-Once the image is pulled, you can run the container using the following command:
 
-```shell
-docker run -p 8080:8080 -e PROTO_GRPC=true -e PROTO_REST=true nick206/neighborly:latest
-```
 
 This will start the Neighborly server, and you can access the gRPC API at localhost:8080.
 
